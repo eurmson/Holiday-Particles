@@ -8,3 +8,4 @@ Holidays wishish using particle effects! Falling snow aranges itself into holida
 
 It is written in Java 17 and uses Java swing for the graphics. I am using buffer images to rasterize text and create the positon requests for the particles, then each paricle has a force applied to it towards the set position. 
 
+It should be runable by simply compileing and running the java file, it does not take any commandline arguments.
